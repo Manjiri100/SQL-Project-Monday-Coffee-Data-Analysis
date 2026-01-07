@@ -72,3 +72,4 @@ Performed multiple aggregations to gain insights:
 ---
 
 🔗 This project demonstrates **end-to-end SQL data analysis**, from **database design** → **data cleaning** → **business insights** → **strategic recommendations** for real-world decision-making.  
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/74c7f3bb-9458-4398-8901-ec9695f74337" />
